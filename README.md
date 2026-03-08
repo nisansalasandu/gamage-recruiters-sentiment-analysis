@@ -66,7 +66,7 @@ gamage-recruiters-sentiment-analysis/
 |---|---|
 | **Platform** | LinkedIn |
 | **Collection Method** | Manual scraping |
-| **Collection Period** | January 2025 — February 2026 |
+| **Collection Period** | 1st week of March 2026 |
 | **Total Posts Collected** | 112 |
 | **Marketing Posts** | 64 |
 | **Job Posts** | 48 |
